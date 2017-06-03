@@ -1,0 +1,20 @@
+{
+  "name": "my-sql-bootcamp",
+  "version": "1.0.0",
+  "description": "MySQL Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon ./app.js"
+  },
+  "author": "Patrick Porche <pporche87@gmail.com> (http://pporche87.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "mysql": "^2.13.0",
+    "promise-mysql": "^3.0.1",
+    "root": "^3.1.0"
+  }
+}
