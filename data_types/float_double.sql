@@ -4,7 +4,7 @@
 -- VALUES (88.45);
 --
 -- SELECT * FROM thingies;
--- 
+--
 -- INSERT INTO thingies (price)
 -- VALUES (8877.45);
 
